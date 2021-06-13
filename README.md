@@ -6,6 +6,7 @@ Goal: Building a Machine Learning model that can predict head tilt from images.
 
 Ground rules: 
 - Always, work in your own branch, so that you don't break something in the other's code. 
+- Commit your work as often as possible. Every commit of yours is stored as a memory stamp in Git, hence your work can never be lost.
 - Make as many separate files for different programs as possible, keeps the codes small and cleaner
 - Always comment stuff out so that other partner can read your code too. 
 - In the ReadMe file, always add a 2-3 line explaination of your every file you create (specially helper files, that the other person can import in his code"
