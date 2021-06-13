@@ -2,7 +2,7 @@
 Repository for the final project for E9 205 Machine Learning for Signal Processing course.
 Goal: Building a Machine Learning model that can predict head tilt from images. 
 
-- Authors: Souvadra Hati, Sanjeev Swaroop Panda (please correct the spelling if I got it wrong)
+- Authors: Souvadra Hati, Sanjeet Swaroop Panda 
 
 Ground rules: 
 - Always, work in your own branch, so that you don't break something in the other's code. 
